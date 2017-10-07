@@ -26,3 +26,7 @@ app.controller('MainCtrl', [
     }
   }
 ]);
+
+app.factory('posts', [function(){
+  // service body
+}])
